@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\users\federico\Escritorio\Proyecto_TDII_CASTELLARO\TDII_PCB_R00.PcbDoc
+RuleKind=Width|RuleName=Width_1|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=20.00

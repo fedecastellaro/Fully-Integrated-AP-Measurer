@@ -1,0 +1,14 @@
+[0616/220446:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0617/220129:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0617/220131:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0617/222718:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0617/222718:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0617/222940:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0617/223644:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0617/231304:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0623/003038:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0318/195737:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0318/195737:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'style-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0318/195737:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)
+[0318/203523:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.

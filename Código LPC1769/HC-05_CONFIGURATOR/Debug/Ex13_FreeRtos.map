@@ -1,0 +1,2197 @@
+Archive member included because of file (symbol)
+
+C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                              ./src/Ex13_FreeRtos.o (Board_LED_Set)
+C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                              ./src/sysinit.o (Board_SystemInit)
+C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+                              ./src/Ex13_FreeRtos.o (xQueueCreateMutex)
+C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                              ./src/Ex13_FreeRtos.o (xTaskGenericCreate)
+C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+                              C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o) (pvPortMalloc)
+C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                              C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o) (pxPortInitialiseStack)
+C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+                              C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o) (vListInitialise)
+C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                              C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o) (SystemCoreClock)
+C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o) (Chip_Clock_EnablePLL)
+C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                              C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o) (Chip_IOCON_PinMux)
+C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o) (Chip_SetupXtalClocking)
+c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+                              C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o) (memcpy)
+c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+                              C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o) (memset)
+c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+                              c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o) (__aeabi_memcpy)
+
+Allocating common symbols
+Common symbol       size              file
+
+llenos              0x4               ./src/Ex13_FreeRtos.o
+vacios              0x4               ./src/Ex13_FreeRtos.o
+SystemCoreClock     0x4               C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+indice              0x1               ./src/Ex13_FreeRtos.o
+xQueueRegistry      0x50              C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+mutex               0x4               ./src/Ex13_FreeRtos.o
+buffercomun         0x4               ./src/Ex13_FreeRtos.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .text          0x00000000        0x0 ./src/Ex13_FreeRtos.o
+ .data          0x00000000        0x0 ./src/Ex13_FreeRtos.o
+ .bss           0x00000000        0x0 ./src/Ex13_FreeRtos.o
+ .text.vApplicationMallocFailedHook
+                0x00000000        0x8 ./src/Ex13_FreeRtos.o
+ .text.vApplicationStackOverflowHook
+                0x00000000        0xc ./src/Ex13_FreeRtos.o
+ .text.vApplicationTickHook
+                0x00000000        0xc ./src/Ex13_FreeRtos.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x87a ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .crp           0x00000000        0x4 ./src/crp.o
+ .debug_info    0x00000000       0x3f ./src/crp.o
+ .debug_abbrev  0x00000000       0x36 ./src/crp.o
+ .debug_aranges
+                0x00000000       0x18 ./src/crp.o
+ .debug_macro   0x00000000       0x1a ./src/crp.o
+ .debug_macro   0x00000000      0x87a ./src/crp.o
+ .debug_macro   0x00000000       0x34 ./src/crp.o
+ .debug_line    0x00000000       0x78 ./src/crp.o
+ .debug_str     0x00000000     0x2549 ./src/crp.o
+ .comment       0x00000000       0x71 ./src/crp.o
+ .ARM.attributes
+                0x00000000       0x33 ./src/crp.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .debug_macro   0x00000000      0x87a ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000      0xbb1 ./src/sysinit.o
+ .debug_macro   0x00000000      0x22c ./src/sysinit.o
+ .debug_macro   0x00000000       0x42 ./src/sysinit.o
+ .debug_macro   0x00000000       0x52 ./src/sysinit.o
+ .debug_macro   0x00000000       0x78 ./src/sysinit.o
+ .debug_macro   0x00000000       0x82 ./src/sysinit.o
+ .debug_macro   0x00000000      0x48c ./src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./src/sysinit.o
+ .debug_macro   0x00000000      0x4c5 ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b7 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x21b ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b9 ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000      0x162 ./src/sysinit.o
+ .debug_macro   0x00000000       0x94 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x328 ./src/sysinit.o
+ .debug_macro   0x00000000       0x49 ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000       0xca ./src/sysinit.o
+ .debug_macro   0x00000000       0xbe ./src/sysinit.o
+ .debug_macro   0x00000000       0x9a ./src/sysinit.o
+ .debug_macro   0x00000000       0x20 ./src/sysinit.o
+ .debug_macro   0x00000000       0x28 ./src/sysinit.o
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_IOCON_EnableOD
+                0x00000000       0x38 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_IOCON_SetI2CPad
+                0x00000000       0x1c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_UART_Init
+                0x00000000       0x14 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_UARTPutChar
+                0x00000000       0x14 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_UARTGetChar
+                0x00000000       0x14 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_UARTPutSTR
+                0x00000000       0x28 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .rodata        0x00000000        0x6 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_ENET_GetMacADDR
+                0x00000000       0x30 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_SSP_Init
+                0x00000000       0xa0 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_SPI_Init
+                0x00000000       0x80 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_SPI_AssertSSEL
+                0x00000000       0x18 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_SPI_DeassertSSEL
+                0x00000000       0x18 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_I2C_Init
+                0x00000000       0xb8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Serial_CreateStream
+                0x00000000       0x14 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_USBD_Init
+                0x00000000       0x50 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x7b C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x18 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0xbe C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x20 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x7b C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x18 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0xbe C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x20 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x4c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x54 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xQueueGenericSendFromISR
+                0x00000000       0x88 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xQueueGiveFromISR
+                0x00000000       0x80 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xQueueReceiveFromISR
+                0x00000000       0x84 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xQueuePeekFromISR
+                0x00000000       0x4c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x2c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x1c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.vQueueDelete
+                0x00000000       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.uxQueueGetQueueNumber
+                0x00000000       0x18 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.vQueueSetQueueNumber
+                0x00000000       0x1c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.ucQueueGetQueueType
+                0x00000000       0x1c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x2c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.vQueueAddToRegistry
+                0x00000000       0x50 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.vQueueUnregisterQueue
+                0x00000000       0x44 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x74 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x11 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0xe8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x15d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0xd2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000      0x3d1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0xc0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00000000       0xb0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ COMMON         0x00000000       0x50 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskDelete
+                0x00000000       0xd4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x38 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskPrioritySet
+                0x00000000      0x134 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskSuspend
+                0x00000000       0xe0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x5c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskResume
+                0x00000000       0x90 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.xTaskResumeFromISR
+                0x00000000       0xac C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskEndScheduler
+                0x00000000       0x18 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x24 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x18 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.uxTaskGetSystemState
+                0x00000000       0xf8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x90 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.xTaskRemoveFromUnorderedEventList
+                0x00000000       0x94 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.uxTaskGetTaskNumber
+                0x00000000       0x2c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskSetTaskNumber
+                0x00000000       0x24 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvListTaskWithinSingleList
+                0x00000000      0x118 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x38 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000       0x38 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.ulTaskNotifyTake
+                0x00000000       0xd8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.xTaskNotifyWait
+                0x00000000       0xfc C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.xTaskGenericNotify
+                0x00000000      0x100 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x128 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskNotifyGiveFromISR
+                0x00000000       0xc0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.xTaskNotifyStateClear
+                0x00000000       0x50 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x74 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x11 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x76 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0xe8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x15d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0xd2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000      0x3d1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0xc0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .text.vPortInitialiseBlocks
+                0x00000000       0x18 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x1c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x74 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x11 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x76 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0xe8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x15d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0xd2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000      0x3d1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0xc0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .text.vPortEndScheduler
+                0x00000000        0xc C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x74 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x11 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x76 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0xe8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x15d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0xd2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000      0x3d1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0xc0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x74 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x11 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x76 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x9a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0xe8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x15d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0xd2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0x1f C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000      0x3d1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00000000       0xc0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLLocked
+                0x00000000       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLConnected
+                0x00000000       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .text.Chip_USB_Init
+                0x00000000       0x4c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLEnabled
+                0x00000000       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLConnected
+                0x00000000       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLInClockRate
+                0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsPeripheralClockEnabled
+                0x00000000       0x3c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCPUClockSource
+                0x00000000       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetUSBClockDiv
+                0x00000000       0x30 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockDiv
+                0x00000000       0x20 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetPCLKDiv
+                0x00000000       0x64 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetPCLKDiv
+                0x00000000       0x90 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x44 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLOutClockRate
+                0x00000000       0x40 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockRate
+                0x00000000       0x38 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetPeripheralClockRate
+                0x00000000       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text          0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .data          0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .bss           0x00000000        0x0 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupIrcClocking
+                0x00000000       0x68 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SystemInit
+                0x00000000        0xc C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x874 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x00000000       0x1c c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x00000000        0x8 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x00000000        0xa c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/Ex13_FreeRtos.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/sysinit.o
+LOAD C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a
+LOAD C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a
+LOAD C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000     0x28d4
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x28d4 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x4 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x28d4 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000004 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x295c SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4      0x144 ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                data_init
+                0x00000138                bss_init
+                0x00000170                ResetISR
+                0x000001e8                NMI_Handler
+                0x000001f0                HardFault_Handler
+                0x000001f8                MemManage_Handler
+                0x00000200                BusFault_Handler
+                0x00000208                UsageFault_Handler
+                0x00000218                DebugMon_Handler
+                0x00000230                UART1_IRQHandler
+                0x00000230                EINT3_IRQHandler
+                0x00000230                I2C1_IRQHandler
+                0x00000230                TIMER3_IRQHandler
+                0x00000230                UART0_IRQHandler
+                0x00000230                USBActivity_IRQHandler
+                0x00000230                CANActivity_IRQHandler
+                0x00000230                EINT2_IRQHandler
+                0x00000230                IntDefaultHandler
+                0x00000230                PLL0_IRQHandler
+                0x00000230                CAN_IRQHandler
+                0x00000230                I2C0_IRQHandler
+                0x00000230                SSP0_IRQHandler
+                0x00000230                I2S_IRQHandler
+                0x00000230                I2C2_IRQHandler
+                0x00000230                RTC_IRQHandler
+                0x00000230                TIMER0_IRQHandler
+                0x00000230                SPI_IRQHandler
+                0x00000230                RIT_IRQHandler
+                0x00000230                EINT1_IRQHandler
+                0x00000230                TIMER1_IRQHandler
+                0x00000230                UART2_IRQHandler
+                0x00000230                ADC_IRQHandler
+                0x00000230                SSP1_IRQHandler
+                0x00000230                USB_IRQHandler
+                0x00000230                BOD_IRQHandler
+                0x00000230                PWM1_IRQHandler
+                0x00000230                WDT_IRQHandler
+                0x00000230                QEI_IRQHandler
+                0x00000230                EINT0_IRQHandler
+                0x00000230                ETH_IRQHandler
+                0x00000230                PLL1_IRQHandler
+                0x00000230                DMA_IRQHandler
+                0x00000230                TIMER2_IRQHandler
+                0x00000230                UART3_IRQHandler
+                0x00000230                MCPWM_IRQHandler
+ *(.text*)
+ .text.prvSetupHardware
+                0x00000238       0x60 ./src/Ex13_FreeRtos.o
+ .text.RGBled   0x00000298       0x80 ./src/Ex13_FreeRtos.o
+                0x00000298                RGBled
+ .text.TareaLed
+                0x00000318       0x28 ./src/Ex13_FreeRtos.o
+                0x00000318                TareaLed
+ .text.Productor1
+                0x00000340       0xb4 ./src/Ex13_FreeRtos.o
+                0x00000340                Productor1
+ .text.Productor2
+                0x000003f4       0xb4 ./src/Ex13_FreeRtos.o
+                0x000003f4                Productor2
+ .text.Consumidor
+                0x000004a8       0x84 ./src/Ex13_FreeRtos.o
+                0x000004a8                Consumidor
+ .text.main     0x0000052c      0x104 ./src/Ex13_FreeRtos.o
+                0x0000052c                main
+ .text.vApplicationIdleHook
+                0x00000630        0xc ./src/Ex13_FreeRtos.o
+                0x00000630                vApplicationIdleHook
+ .text.SystemInit
+                0x0000063c       0x24 ./src/sysinit.o
+                0x0000063c                SystemInit
+ .text.Chip_IOCON_Init
+                0x00000660       0x14 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_Init
+                0x00000674       0x14 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_SetPinState
+                0x00000688       0x68 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_WritePortBit
+                0x000006f0       0x2c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_GetPinState
+                0x0000071c       0x3c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_ReadPortBit
+                0x00000758       0x28 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_SetPinDIROutput
+                0x00000780       0x38 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_SetPinDIRInput
+                0x000007b8       0x3c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_SetPinDIR
+                0x000007f4       0x44 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Chip_GPIO_WriteDirBit
+                0x00000838       0x2c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_LED_Init
+                0x00000864       0x6c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .text.Board_LED_Set
+                0x000008d0       0x28 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x000008d0                Board_LED_Set
+ .text.Board_LED_Test
+                0x000008f8       0x34 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x000008f8                Board_LED_Test
+ .text.Board_LED_Toggle
+                0x0000092c       0x48 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x0000092c                Board_LED_Toggle
+ .text.Board_RGB_Set
+                0x00000974       0x28 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x00000974                Board_RGB_Set
+ .text.Board_Buttons_Init
+                0x0000099c       0x24 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x0000099c                Board_Buttons_Init
+ .text.Buttons_GetStatus
+                0x000009c0       0x54 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x000009c0                Buttons_GetStatus
+ .text.Board_Init
+                0x00000a14       0x24 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x00000a14                Board_Init
+ .text.Chip_SYSCTL_SetFLASHAccess
+                0x00000a38       0x30 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .text.Board_SetupMuxing
+                0x00000a68       0x18 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                0x00000a68                Board_SetupMuxing
+ .text.Board_SetupClocking
+                0x00000a80       0x10 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                0x00000a80                Board_SetupClocking
+ .text.Board_SystemInit
+                0x00000a90       0x10 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                0x00000a90                Board_SystemInit
+ .text.xQueueGenericReset
+                0x00000aa0       0xa4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+                0x00000aa0                xQueueGenericReset
+ .text.xQueueGenericCreate
+                0x00000b44       0x80 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+                0x00000b44                xQueueGenericCreate
+ .text.xQueueCreateMutex
+                0x00000bc4       0x84 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+                0x00000bc4                xQueueCreateMutex
+ .text.xQueueCreateCountingSemaphore
+                0x00000c48       0x2c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+                0x00000c48                xQueueCreateCountingSemaphore
+ .text.xQueueGenericSend
+                0x00000c74      0x124 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+                0x00000c74                xQueueGenericSend
+ .text.xQueueGenericReceive
+                0x00000d98      0x170 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+                0x00000d98                xQueueGenericReceive
+ .text.prvCopyDataToQueue
+                0x00000f08       0xdc C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.prvCopyDataFromQueue
+                0x00000fe4       0x4c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.prvUnlockQueue
+                0x00001030       0x98 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.prvIsQueueEmpty
+                0x000010c8       0x2c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.prvIsQueueFull
+                0x000010f4       0x30 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .text.xTaskGenericCreate
+                0x00001124      0x140 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001124                xTaskGenericCreate
+ .text.vTaskDelayUntil
+                0x00001264       0xb8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001264                vTaskDelayUntil
+ .text.vTaskDelay
+                0x0000131c       0x74 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x0000131c                vTaskDelay
+ .text.vTaskStartScheduler
+                0x00001390       0x60 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001390                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x000013f0       0x1c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x000013f0                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x0000140c      0x100 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x0000140c                xTaskResumeAll
+ .text.xTaskGetTickCount
+                0x0000150c       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x0000150c                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x0000152c      0x160 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x0000152c                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x0000168c       0x8c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x0000168c                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x00001718       0x80 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001718                vTaskPlaceOnEventList
+ .text.xTaskRemoveFromEventList
+                0x00001798       0xac C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001798                xTaskRemoveFromEventList
+ .text.vTaskSetTimeOutState
+                0x00001844       0x2c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001844                vTaskSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x00001870       0x88 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001870                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x000018f8       0x18 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x000018f8                vTaskMissedYield
+ .text.prvIdleTask
+                0x00001910       0x24 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvInitialiseTCBVariables
+                0x00001934       0xa4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvInitialiseTaskLists
+                0x000019d8       0x7c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvCheckTasksWaitingTermination
+                0x00001a54       0x74 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvAddCurrentTaskToDelayedList
+                0x00001ac8       0x6c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvAllocateTCBAndStack
+                0x00001b34       0x70 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvDeleteTCB
+                0x00001ba4       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.prvResetNextTaskUnblockTime
+                0x00001bc4       0x48 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .text.vTaskPriorityInherit
+                0x00001c0c       0xf0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001c0c                vTaskPriorityInherit
+ .text.xTaskPriorityDisinherit
+                0x00001cfc       0xcc C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001cfc                xTaskPriorityDisinherit
+ .text.pvTaskIncrementMutexHeldCount
+                0x00001dc8       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x00001dc8                pvTaskIncrementMutexHeldCount
+ .text.pvPortMalloc
+                0x00001df0       0x8c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+                0x00001df0                pvPortMalloc
+ .text.vPortFree
+                0x00001e7c       0x14 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+                0x00001e7c                vPortFree
+ .text.pxPortInitialiseStack
+                0x00001e90       0x58 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001e90                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x00001ee8        0xc C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .text.SVC_Handler
+                0x00001ef4       0x24 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001ef4                SVC_Handler
+ .text.prvPortStartFirstTask
+                0x00001f18       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .text.xPortStartScheduler
+                0x00001f38       0x3c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001f38                xPortStartScheduler
+ .text.vPortYield
+                0x00001f74       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001f74                vPortYield
+ .text.vPortEnterCritical
+                0x00001f94       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001f94                vPortEnterCritical
+ .text.vPortExitCritical
+                0x00001fb4       0x24 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001fb4                vPortExitCritical
+ .text.ulPortSetInterruptMask
+                0x00001fd8       0x14 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001fd8                ulPortSetInterruptMask
+ .text.vPortClearInterruptMask
+                0x00001fec        0x8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001fec                vPortClearInterruptMask
+ .text.PendSV_Handler
+                0x00001ff4       0x44 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00001ff4                PendSV_Handler
+ .text.SysTick_Handler
+                0x00002038       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00002038                SysTick_Handler
+ .text.vPortSetupTimerInterrupt
+                0x00002060       0x34 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x00002060                vPortSetupTimerInterrupt
+ .text.vListInitialise
+                0x00002094       0x40 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+                0x00002094                vListInitialise
+ .text.vListInitialiseItem
+                0x000020d4       0x18 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+                0x000020d4                vListInitialiseItem
+ .text.vListInsertEnd
+                0x000020ec       0x48 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+                0x000020ec                vListInsertEnd
+ .text.vListInsert
+                0x00002134       0x70 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+                0x00002134                vListInsert
+ .text.uxListRemove
+                0x000021a4       0x54 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+                0x000021a4                uxListRemove
+ .text.SystemCoreClockUpdate
+                0x000021f8       0x14 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                0x000021f8                SystemCoreClockUpdate
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x0000220c       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLConnected
+                0x00002234       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_FeedPLL
+                0x0000225c       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLSource
+                0x00002290       0x20 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainOscRate
+                0x000022b0       0x18 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetIntOscRate
+                0x000022c8       0x14 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetRTCOscRate
+                0x000022dc       0x18 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLInClockRate
+                0x000022f4       0x10 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_EnablePLL
+                0x00002304       0x44 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00002304                Chip_Clock_EnablePLL
+ .text.Chip_Clock_DisablePLL
+                0x00002348       0x44 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00002348                Chip_Clock_DisablePLL
+ .text.Chip_Clock_SetupPLL
+                0x0000238c       0x58 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x0000238c                Chip_Clock_SetupPLL
+ .text.Chip_Clock_EnablePeriphClock
+                0x000023e4       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000023e4                Chip_Clock_EnablePeriphClock
+ .text.Chip_Clock_GetCPUClockSource
+                0x00002418       0x24 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00002418                Chip_Clock_GetCPUClockSource
+ .text.Chip_Clock_SetCPUClockDiv
+                0x0000243c       0x20 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x0000243c                Chip_Clock_SetCPUClockDiv
+ .text.Chip_Clock_GetCPUClockDiv
+                0x0000245c       0x1c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x0000245c                Chip_Clock_GetCPUClockDiv
+ .text.Chip_Clock_GetSYSCLKRate
+                0x00002478       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00002478                Chip_Clock_GetSYSCLKRate
+ .text.Chip_Clock_GetMainPLLOutClockRate
+                0x000024ac       0x54 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000024ac                Chip_Clock_GetMainPLLOutClockRate
+ .text.Chip_Clock_GetMainClockRate
+                0x00002500       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00002500                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x00002528       0x18 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00002528                Chip_Clock_GetSystemClockRate
+ .text.Chip_IOCON_PinMuxSet
+                0x00002540       0x34 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x00002540                Chip_IOCON_PinMuxSet
+ .text.Chip_IOCON_PinMux
+                0x00002574       0x94 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x00002574                Chip_IOCON_PinMux
+ .text.Chip_IOCON_SetPinMuxing
+                0x00002608       0x60 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x00002608                Chip_IOCON_SetPinMuxing
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x00002668       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLLocked
+                0x00002690       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLConnected
+                0x000026b8       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_EnableCrystal
+                0x000026e0       0x20 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsCrystalEnabled
+                0x00002700       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_SetMainPLLSource
+                0x00002728       0x20 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00002748       0x90 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                0x00002748                Chip_SetupXtalClocking
+ .text.memcpy   0x000027d8        0x4 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+                0x000027d8                memcpy
+ .text.memset   0x000027dc        0x4 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+                0x000027dc                memset
+ .text.__weak_main
+                0x000027e0        0x4 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                0x000027e0                __weak_main
+                0x000027e0                __main
+ .text.__aeabi_memcpy
+                0x000027e4       0x34 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+                0x000027e4                __aeabi_memcpy
+                0x000027ee                __aeabi_memcpy8
+                0x000027ee                __aeabi_memcpy4
+ .text.__aeabi_memset_lowlevel
+                0x00002818       0x32 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+                0x00002818                __aeabi_lowlevel_memset
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *fill*         0x0000284a        0x2 
+ .rodata        0x0000284c       0x10 ./src/Ex13_FreeRtos.o
+ .rodata.OscRateIn
+                0x0000285c        0x4 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x0000285c                OscRateIn
+ .rodata.RTCOscRateIn
+                0x00002860        0x4 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                0x00002860                RTCOscRateIn
+ .rodata.pinmuxing
+                0x00002864       0x68 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .rodata        0x000028cc        0x5 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x000028d4                . = ALIGN (0x4)
+ *fill*         0x000028d1        0x3 ff
+
+.glue_7         0x000028d4        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x000028d4        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x000028d4        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000028d4        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x000028d4        0x0
+ .iplt          0x00000000        0x0 ./src/Ex13_FreeRtos.o
+
+.rel.dyn        0x000028d4        0x0
+ .rel.iplt      0x00000000        0x0 ./src/Ex13_FreeRtos.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000028d4                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x000028d4                __exidx_end = .
+                0x000028d4                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x000028d4
+ FILL mask 0xff
+                0x2007c000                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+                0x2007c000                PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x4 load address 0x000028d4
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.uxCriticalNesting
+                0x10000000        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                0x10000004                . = ALIGN (0x4)
+                0x10000004                _edata = .
+
+.igot.plt       0x10000004        0x0 load address 0x000028d8
+ .igot.plt      0x00000000        0x0 ./src/Ex13_FreeRtos.o
+
+.bss_RAM2       0x2007c000        0x0
+                0x2007c000                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x2007c000                PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x10000004     0x295c
+                0x10000004                _bss = .
+ *(.bss*)
+ .bss.pxCurrentTCB
+                0x10000004        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                0x10000004                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x10000008       0xa0 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xDelayedTaskList1
+                0x100000a8       0x14 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xDelayedTaskList2
+                0x100000bc       0x14 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.pxDelayedTaskList
+                0x100000d0        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.pxOverflowDelayedTaskList
+                0x100000d4        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xPendingReadyList
+                0x100000d8       0x14 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xTasksWaitingTermination
+                0x100000ec       0x14 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.uxTasksDeleted
+                0x10000100        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xSuspendedTaskList
+                0x10000104       0x14 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.uxCurrentNumberOfTasks
+                0x10000118        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xTickCount
+                0x1000011c        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.uxTopReadyPriority
+                0x10000120        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xSchedulerRunning
+                0x10000124        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.uxPendedTicks
+                0x10000128        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xYieldPending
+                0x1000012c        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xNumOfOverflows
+                0x10000130        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.uxTaskNumber
+                0x10000134        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.xNextTaskUnblockTime
+                0x10000138        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.uxSchedulerSuspended
+                0x1000013c        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .bss.ucHeap    0x10000140     0x2800 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .bss.xNextFreeByte
+                0x10002940        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .bss.pucAlignedHeap.7656
+                0x10002944        0x4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ *(COMMON)
+ COMMON         0x10002948       0x14 ./src/Ex13_FreeRtos.o
+                0x10002948                llenos
+                0x1000294c                vacios
+                0x10002950                indice
+                0x10002954                mutex
+                0x10002958                buffercomun
+ COMMON         0x1000295c        0x4 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                0x1000295c                SystemCoreClock
+                0x10002960                . = ALIGN (0x4)
+                0x10002960                _ebss = .
+                0x10002960                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10002960        0x0
+                0x10002960                _noinit = .
+ *(.noinit*)
+                0x10002960                . = ALIGN (0x4)
+                0x10002960                _end_noinit = .
+                0x10002960                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff74b2                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(Ex13_FreeRtos.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x6048
+ .debug_info    0x00000000      0x3ba ./src/Ex13_FreeRtos.o
+ .debug_info    0x000003ba      0x24e ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000608      0x110 ./src/sysinit.o
+ .debug_info    0x00000718     0x10e8 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_info    0x00001800      0x558 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_info    0x00001d58      0xcb6 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_info    0x00002a0e     0x1699 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_info    0x000040a7      0x24b C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_info    0x000042f2      0x31d C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_info    0x0000460f      0x2df C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_info    0x000048ee      0x50a C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_info    0x00004df8      0xb46 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_info    0x0000593e      0x2d9 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_info    0x00005c17      0x431 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_abbrev   0x00000000     0x1636
+ .debug_abbrev  0x00000000      0x16d ./src/Ex13_FreeRtos.o
+ .debug_abbrev  0x0000016d       0xf5 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x00000262       0xa3 ./src/sysinit.o
+ .debug_abbrev  0x00000305      0x2e0 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_abbrev  0x000005e5      0x15a C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_abbrev  0x0000073f      0x1ca C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_abbrev  0x00000909      0x2ac C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_abbrev  0x00000bb5      0x137 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_abbrev  0x00000cec      0x1ab C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_abbrev  0x00000e97       0xec C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_abbrev  0x00000f83      0x138 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_abbrev  0x000010bb      0x2e4 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_abbrev  0x0000139f      0x126 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_abbrev  0x000014c5      0x171 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_aranges  0x00000000      0x7f8
+ .debug_aranges
+                0x00000000       0x70 ./src/Ex13_FreeRtos.o
+ .debug_aranges
+                0x00000070       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x000000f0       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x00000110      0x118 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_aranges
+                0x00000228       0x38 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_aranges
+                0x00000260       0xf8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_aranges
+                0x00000358      0x1b8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_aranges
+                0x00000510       0x38 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_aranges
+                0x00000548       0x88 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_aranges
+                0x000005d0       0x40 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_aranges
+                0x00000610       0x38 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_aranges
+                0x00000648      0x120 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_aranges
+                0x00000768       0x30 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_aranges
+                0x00000798       0x60 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_ranges   0x00000000      0x718
+ .debug_ranges  0x00000000       0x60 ./src/Ex13_FreeRtos.o
+ .debug_ranges  0x00000060       0x70 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x000000d0       0x10 ./src/sysinit.o
+ .debug_ranges  0x000000e0      0x108 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_ranges  0x000001e8       0x28 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_ranges  0x00000210       0xe8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_ranges  0x000002f8      0x1a8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_ranges  0x000004a0       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_ranges  0x000004c8       0x78 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_ranges  0x00000540       0x30 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_ranges  0x00000570       0x28 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_ranges  0x00000598      0x110 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_ranges  0x000006a8       0x20 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_ranges  0x000006c8       0x50 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_macro    0x00000000     0x74fe
+ .debug_macro   0x00000000      0x2c0 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000002c0      0x87a ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00000b3a       0x10 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00000b4a      0x12d ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00000c77       0x16 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00000c8d      0x5b2 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x0000123f       0x22 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00001261       0x74 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000012d5       0x10 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000012e5       0x2d ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00001312       0x3a ./src/Ex13_FreeRtos.o
+ .debug_macro   0x0000134c       0x2d ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00001379      0xbb1 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00001f2a      0x22c ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00002156       0x42 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00002198       0x52 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000021ea       0x78 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00002262       0x82 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000022e4      0x48c ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00002770       0x34 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000027a4      0x4c5 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00002c69      0x1b7 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00002e20       0x10 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00002e30      0x21b ./src/Ex13_FreeRtos.o
+ .debug_macro   0x0000304b      0x1b9 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003204       0x40 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003244       0x22 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003266      0x162 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000033c8       0x94 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x0000345c       0xb8 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003514       0x4c ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003560       0x16 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003576      0x328 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x0000389e       0x49 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000038e7       0x16 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000038fd       0xca ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000039c7       0x11 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000039d8       0xbe ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003a96       0x9a ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003b30       0x20 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003b50       0x28 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003b78       0xe8 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003c60      0x15d ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003dbd       0xd2 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003e8f       0x10 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003e9f       0x1f ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00003ebe      0x3d1 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x0000428f       0xc0 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x0000434f       0x9a ./src/Ex13_FreeRtos.o
+ .debug_macro   0x000043e9       0xb0 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00004499       0x7f ./src/Ex13_FreeRtos.o
+ .debug_macro   0x00004518       0x82 ./src/Ex13_FreeRtos.o
+ .debug_macro   0x0000459a       0x1d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x000045b7      0x217 ./src/sysinit.o
+ .debug_macro   0x000047ce       0x7b ./src/sysinit.o
+ .debug_macro   0x00004849       0x18 ./src/sysinit.o
+ .debug_macro   0x00004861      0x22e C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00004a8f      0x874 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00005303       0x12 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_macro   0x00005315      0x217 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_macro   0x0000552c      0x303 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x0000582f      0x874 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x000060a3       0x28 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x000060cb       0x76 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00006141       0x20 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_macro   0x00006161      0x33f C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x000064a0       0x91 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00006531       0x11 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_macro   0x00006542      0x2bb C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_macro   0x000067fd      0x333 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_macro   0x00006b30      0x29a C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_macro   0x00006dca      0x1cd C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_macro   0x00006f97      0x1cd C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00007164      0x1cd C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00007331      0x1cd C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_line     0x00000000     0x5393
+ .debug_line    0x00000000      0x6d9 ./src/Ex13_FreeRtos.o
+ .debug_line    0x000006d9       0xd5 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x000007ae      0x443 ./src/sysinit.o
+ .debug_line    0x00000bf1      0x700 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_line    0x000012f1      0x483 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_line    0x00001774      0x910 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_line    0x00002084      0xda2 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_line    0x00002e26      0x5ab C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_line    0x000033d1      0x666 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_line    0x00003a37      0x5b7 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_line    0x00003fee      0x433 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_line    0x00004421      0x6aa C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_line    0x00004acb      0x41f C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_line    0x00004eea      0x4a9 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+
+.debug_str      0x00000000    0x19acd
+ .debug_str     0x00000000    0x15921 ./src/Ex13_FreeRtos.o
+                              0x15a50 (size before relaxing)
+ .debug_str     0x00015921      0x197 ./src/cr_startup_lpc175x_6x.o
+                               0x2631 (size before relaxing)
+ .debug_str     0x00015ab8       0x51 ./src/sysinit.o
+                              0x10b0c (size before relaxing)
+ .debug_str     0x00015b09      0x9ef C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+                              0x116a6 (size before relaxing)
+ .debug_str     0x000164f8      0x22d C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+                              0x10f10 (size before relaxing)
+ .debug_str     0x00016725      0x941 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+                              0x15474 (size before relaxing)
+ .debug_str     0x00017066     0x18a1 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+                              0x15cf2 (size before relaxing)
+ .debug_str     0x00018907       0xe4 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+                              0x1433a (size before relaxing)
+ .debug_str     0x000189eb      0x617 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+                              0x1483a (size before relaxing)
+ .debug_str     0x00019002       0x9b C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+                              0x13a4b (size before relaxing)
+ .debug_str     0x0001909d       0x9c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+                              0x10ae5 (size before relaxing)
+ .debug_str     0x00019139      0x857 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              0x11153 (size before relaxing)
+ .debug_str     0x00019990       0x79 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                              0x105d0 (size before relaxing)
+ .debug_str     0x00019a09       0xc4 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              0x107b8 (size before relaxing)
+
+.comment        0x00000000       0xe0
+ .comment       0x00000000       0x70 ./src/Ex13_FreeRtos.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/cr_startup_lpc175x_6x.o
+ .comment       0x00000000       0x71 ./src/sysinit.o
+ .comment       0x00000000       0x71 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .comment       0x00000000       0x71 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .comment       0x00000070       0x70 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .comment       0x00000000       0x71 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./src/Ex13_FreeRtos.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/sysinit.o
+ .ARM.attributes
+                0x00000099       0x33 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .ARM.attributes
+                0x000000cc       0x33 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .ARM.attributes
+                0x000000ff       0x33 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .ARM.attributes
+                0x00000132       0x33 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .ARM.attributes
+                0x00000165       0x33 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .ARM.attributes
+                0x00000198       0x33 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .ARM.attributes
+                0x000001cb       0x33 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .ARM.attributes
+                0x000001fe       0x33 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .ARM.attributes
+                0x00000231       0x33 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .ARM.attributes
+                0x00000264       0x33 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .ARM.attributes
+                0x00000297       0x33 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .ARM.attributes
+                0x000002ca       0x33 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x000002fd       0x33 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(memset.o)
+ .ARM.attributes
+                0x00000330       0x33 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000363       0x21 c:/nxp/lpcxpresso_8.0.0_526/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.9.3/armv7-m\libcr_eabihelpers.a(memcpy.o)
+
+.debug_frame    0x00000000     0x1d80
+ .debug_frame   0x00000000      0x16c ./src/Ex13_FreeRtos.o
+ .debug_frame   0x0000016c      0x170 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x000002dc       0x34 ./src/sysinit.o
+ .debug_frame   0x00000310      0x490 C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board.o)
+ .debug_frame   0x000007a0       0x8c C:\nxp\workspace2\LPC_BaseBoardBB1769_R02\Debug\libLPC_BaseBoardBB1769_R02.a(board_sysinit.o)
+ .debug_frame   0x0000082c      0x428 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(queue.o)
+ .debug_frame   0x00000c54      0x778 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(tasks.o)
+ .debug_frame   0x000013cc       0x9c C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(heap_1.o)
+ .debug_frame   0x00001468      0x174 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(port.o)
+ .debug_frame   0x000015dc       0xd8 C:\nxp\workspace2\LibFreeRTOS_8.2.3\Debug\libLibFreeRTOS_8.2.3.a(list.o)
+ .debug_frame   0x000016b4       0x88 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(chip_17xx_40xx.o)
+ .debug_frame   0x0000173c      0x490 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_frame   0x00001bcc       0x88 C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_frame   0x00001c54      0x12c C:\nxp\workspace2\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
